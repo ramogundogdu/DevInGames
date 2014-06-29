@@ -1,30 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="DepInjMEFCalculator.OpPlus" BaseTypeListCollapsed="true">
-    <Position X="2.75" Y="3.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
-      <FileName>Program.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Position="0.195" Collapsed="true" />
-  </Class>
-  <Class Name="DepInjMEFCalculator.OpMinus" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="7.25" Y="3.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
-      <FileName>Program.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
-  </Class>
-  <Class Name="DepInjMEFCalculator.OpMult" BaseTypeListCollapsed="true">
-    <Position X="11.75" Y="3.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
-      <FileName>Program.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
-  </Class>
-  <Class Name="DepInjMEFCalculator.OpDiv" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
@@ -32,15 +8,39 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="DepInjMEFCalculator.Calculator">
+  <Class Name="DepInjMEFCalculator.OpMinus" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DepInjMEFCalculator.OpMult" BaseTypeListCollapsed="true">
     <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DepInjMEFCalculator.OpDiv" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DepInjMEFCalculator.Calculator">
+    <Position X="2.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ACAAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DepInjMEFCalculator.Program">
-    <Position X="9.5" Y="3.75" Width="1.5" />
+    <Position X="11.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
@@ -51,7 +51,7 @@
     <TypeIdentifier />
   </Class>
   <Interface Name="DepInjMEFCalculator.IOperation">
-    <Position X="8" Y="0.5" Width="1.5" />
+    <Position X="8.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
       <FileName>Program.cs</FileName>
