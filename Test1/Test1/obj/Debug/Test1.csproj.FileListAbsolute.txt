@@ -5,3 +5,10 @@ C:\Users\mch\Temp\SWDevINGames\Test1\Test1\obj\Debug\Test1.csprojResolveAssembly
 C:\Users\mch\Temp\SWDevINGames\Test1\Test1\obj\Debug\Test1.exe
 C:\Users\mch\Temp\SWDevINGames\Test1\Test1\obj\Debug\Test1.pdb
 C:\Users\mch\Temp\SWDevINGames\Test1\Test1\bin\Debug\Test1.XML
+D:\GitHub\DevInGames\Test1\Test1\bin\Debug\Test1.exe.config
+D:\GitHub\DevInGames\Test1\Test1\bin\Debug\Test1.XML
+D:\GitHub\DevInGames\Test1\Test1\obj\Debug\Test1.exe
+D:\GitHub\DevInGames\Test1\Test1\obj\Debug\Test1.pdb
+D:\GitHub\DevInGames\Test1\Test1\bin\Debug\Test1.exe
+D:\GitHub\DevInGames\Test1\Test1\bin\Debug\Test1.pdb
+D:\GitHub\DevInGames\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
