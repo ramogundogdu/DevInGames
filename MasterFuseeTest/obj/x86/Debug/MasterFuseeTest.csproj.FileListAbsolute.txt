@@ -1,0 +1,6 @@
+C:\Users\mch\Documents\_DEV\Fusee\Bin\Debug\Examples\MasterFuseeTest\Assets\RGB.fus
+C:\Users\mch\Documents\_DEV\Fusee\Bin\Debug\Examples\MasterFuseeTest\Examples.MasterFuseeTest.exe
+C:\Users\mch\Documents\_DEV\Fusee\Bin\Debug\Examples\MasterFuseeTest\Examples.MasterFuseeTest.pdb
+C:\Users\mch\Documents\_DEV\Fusee\src\Engine\Examples\MasterFuseeTest\obj\x86\Debug\MasterFuseeTest.csprojResolveAssemblyReference.cache
+C:\Users\mch\Documents\_DEV\Fusee\src\Engine\Examples\MasterFuseeTest\obj\x86\Debug\Examples.MasterFuseeTest.exe
+C:\Users\mch\Documents\_DEV\Fusee\src\Engine\Examples\MasterFuseeTest\obj\x86\Debug\Examples.MasterFuseeTest.pdb

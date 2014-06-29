@@ -1,0 +1,6 @@
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\DepInjMEFCalculator\DepInjMEFCalculator\bin\Debug\DepInjMEFCalculator.exe.config
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\DepInjMEFCalculator\DepInjMEFCalculator\bin\Debug\DepInjMEFCalculator.exe
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\DepInjMEFCalculator\DepInjMEFCalculator\bin\Debug\DepInjMEFCalculator.pdb
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\DepInjMEFCalculator\DepInjMEFCalculator\obj\Debug\DepInjMEFCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\DepInjMEFCalculator\DepInjMEFCalculator\obj\Debug\DepInjMEFCalculator.exe
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\DepInjMEFCalculator\DepInjMEFCalculator\obj\Debug\DepInjMEFCalculator.pdb

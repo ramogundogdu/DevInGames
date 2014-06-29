@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Test1</name>
+    </assembly>
+    <members>
+        <member name="T:Test1.MathHelper">
+            <summary>
+            This class is very good for solving math problems.
+            </summary>
+        </member>
+        <member name="M:Test1.MathHelper.Max(System.Double,System.Double)">
+            <summary>
+            Calculates the maximum of a and b
+            </summary>
+            <param name="a">Left parameter</param>
+            <param name="b">Right parameter</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

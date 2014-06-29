@@ -1,0 +1,6 @@
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\VisitorPattern\VisitorPattern02\VisitorPattern02\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\VisitorPattern\VisitorPattern02\VisitorPattern02\obj\Debug\ConsoleApplication1.exe
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\VisitorPattern\VisitorPattern02\VisitorPattern02\obj\Debug\ConsoleApplication1.pdb
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\VisitorPattern\VisitorPattern02\VisitorPattern02\bin\Debug\ConsoleApplication1.exe
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\VisitorPattern\VisitorPattern02\VisitorPattern02\bin\Debug\ConsoleApplication1.pdb
+C:\Users\mch\Documents\_HFU\2014_SS\06_SWEntwInGames\AufgabenProjekte\VisitorPattern\VisitorPattern02\VisitorPattern02\obj\Debug\VisitorPattern02.csprojResolveAssemblyReference.cache
